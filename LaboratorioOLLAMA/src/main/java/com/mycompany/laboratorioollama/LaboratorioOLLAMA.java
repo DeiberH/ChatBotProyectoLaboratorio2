@@ -13,8 +13,8 @@ package com.mycompany.laboratorioollama;
 public class LaboratorioOLLAMA {
 
     public static void main(String[] args) {
-        UIOllama frame = new UIOllama();
+        Inicio frame = new Inicio();
         frame.setVisible(true);
-        frame.setSize(865, 558);
+        frame.setSize(500,250);
     }
 }
